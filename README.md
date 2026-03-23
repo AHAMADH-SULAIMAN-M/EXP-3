@@ -1,6 +1,4 @@
-# EXP-3
-EXPT NO: 3				
-STAIR CASE WIRING                     
+# EXP-3	STAIR CASE WIRING                     
 
  
 AIM
@@ -39,21 +37,28 @@ switch2.
 •  Screw the accessories on the board and switch on the supply.
 •  Circuit is tested for all possible combination of switch positions.
 
-![WhatsApp Image 2025-09-24 at 09 15 37_7b9430c7](https://github.com/user-attachments/assets/75bcaab5-3f75-4927-8821-6453353f3102)
 
-![WhatsApp Image 2025-09-24 at 09 15 36_32dedab4](https://github.com/user-attachments/assets/e44b677a-46f8-41d3-b430-aa90e8ad8a00)
+Direct connection: 
 
-Direct connection: CIRCUIT DIAGRAM: 
+CIRCUIT DIAGRAM:
+
+<img width="1006" height="391" alt="image" src="https://github.com/user-attachments/assets/412ed66e-aa11-43f7-9b73-d3f792f28d3b" />
+
 Tabulation:1
 
-![WhatsApp Image 2025-09-24 at 09 15 37_37ea3d90](https://github.com/user-attachments/assets/836c267e-7660-4fdd-975b-81339c850dc3)
+<img width="1280" height="803" alt="image" src="https://github.com/user-attachments/assets/2a46ee3f-d726-4272-9526-9d31e624ce48" />
 
 	
-Cross connection: CIRCUIT DIAGRAM:
+Cross connection:
+
+CIRCUIT DIAGRAM:
+
+<img width="925" height="344" alt="image" src="https://github.com/user-attachments/assets/0364a4aa-c55c-485d-872e-da49731fe807" />
+
 
 Tabulation:2
 
-![WhatsApp Image 2025-09-24 at 09 15 36_1fc236c6](https://github.com/user-attachments/assets/192a364e-e524-46df-b32a-dc77e97a73bc)
+<img width="1280" height="796" alt="image" src="https://github.com/user-attachments/assets/8f29571c-721e-4856-9bf4-9c7b4b5d5a8b" />
 
 
 RESULT:
